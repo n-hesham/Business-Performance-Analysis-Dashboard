@@ -32,25 +32,25 @@ This project involves creating a dynamic and interactive Power BI dashboard to a
 
 ### 1. Sales Performance:
 
-![Sales Performance]images\1.png)
+![Sales Performance]images/1.png)
 
 ---
 
 ### 2. Customer Analysis:
 
-![Customer Analysis](images\2.png)
+![Customer Analysis](images/2.png)
 
 ---
 
 ### 3. Product Analysis:
 
-![Product Analysis](images\3.png)
+![Product Analysis](images/3.png)
 
 ---
 
 ### 4. Distribution Analysis:
 
-![Distribution Analysis](images\4.png)
+![Distribution Analysis](images/4.png)
 
 ---
 
