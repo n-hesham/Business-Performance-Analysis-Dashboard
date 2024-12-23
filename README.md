@@ -32,7 +32,7 @@ This project involves creating a dynamic and interactive Power BI dashboard to a
 
 ### 1. Sales Performance:
 
-![Sales Performance]images/1.png)
+![Sales Performance](images/1.png)
 
 ---
 
