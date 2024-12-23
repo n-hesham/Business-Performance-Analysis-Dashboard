@@ -30,17 +30,27 @@ This project involves creating a dynamic and interactive Power BI dashboard to a
 
 ## Dashboard Previews
 
-### **Dashboard Overview**
-The main dashboard includes key metrics, sales trends, and profitability analysis, allowing stakeholders to get a high-level view of business performance.
+### 1. Sales Performance:
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Sales Performance]images\1.png)
 
 ---
 
-### **Sales Analysis**
-This dashboard section focuses on sales by category, region, and shipping performance, helping to identify top-performing areas.
+### 2. Customer Analysis:
 
-![Sales Analysis](images/sales_analysis.png)
+![Customer Analysis](images\2.png)
+
+---
+
+### 3. Product Analysis:
+
+![Product Analysis](images\3.png)
+
+---
+
+### 4. Distribution Analysis:
+
+![Distribution Analysis](images\4.png)
 
 ---
 
